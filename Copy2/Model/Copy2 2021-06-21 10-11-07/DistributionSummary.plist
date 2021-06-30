@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Copy2.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>E7E8C8DEC5690025769EAC0967024B2FCFAA620F</string>
+				<key>dateExpires</key>
+				<string>2022/6/7</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>RL93S87B5K.com.example.EADemo12345</string>
+				<key>com.apple.developer.icloud-container-environment</key>
+				<string>Production</string>
+				<key>com.apple.developer.icloud-container-identifiers</key>
+				<array>
+					<string>iCloud.com.juul.McuMgrExampletssd</string>
+				</array>
+				<key>com.apple.developer.icloud-services</key>
+				<array>
+					<string>CloudDocuments</string>
+				</array>
+				<key>com.apple.developer.team-identifier</key>
+				<string>RL93S87B5K</string>
+				<key>com.apple.developer.ubiquity-container-identifiers</key>
+				<array>
+					<string>iCloud.com.juul.McuMgrExampletssd</string>
+				</array>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>Copy2.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>d32f0a90-2337-4dd2-8ada-fc0bb5dc94d2</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.example.EADemo12345</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>RL93S87B5K</string>
+				<key>name</key>
+				<string>Lei Liu</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

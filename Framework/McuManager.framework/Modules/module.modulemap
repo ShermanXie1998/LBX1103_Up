@@ -1,0 +1,11 @@
+framework module McuManager {
+  umbrella header "McuManager-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module McuManager.Swift {
+    header "McuManager-Swift.h"
+    requires objc
+}

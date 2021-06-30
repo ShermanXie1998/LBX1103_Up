@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "EE5ADF73-8CE6-4F10-99BF-F5F4BF780068"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DE1469F-0070-4E74-8DE3-ED37E0797F8C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Copy2/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7C7C570-7835-4892-B2F0-5C682BEC2F09"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Copy2/ConfigurationTerminalViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "startFirmwareUpgrade(imageData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76A1B209-BE9F-4E8E-AE0C-B1EA69BBA3BB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Copy2/ConfigurationTerminalViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "startFirmwareUpgrade(imageData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3E9BD5C5-3BEF-4989-85A5-AA7F9001D277"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Copy2/ConfigurationTerminalViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "startFirmwareUpgrade(imageData:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F66BEB2D-5501-4111-8EE0-0E1DC45BFBC1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Copy2/ConfigurationTerminalViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18875C5F-AD1C-4CC2-B250-3DB18AE66FE0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Copy2/ConfigurationTerminalViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "ConfigurationTerminalViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "18875C5F-AD1C-4CC2-B250-3DB18AE66FE0 - 6496e956a321b96b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Copy2.ConfigurationTerminalViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Copy2.ConfigurationTerminalViewController"
+                  moduleName = "Copy2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Copy2%202/Copy2/ConfigurationTerminalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "18875C5F-AD1C-4CC2-B250-3DB18AE66FE0 - 50f2c73558974daa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Copy2.ConfigurationTerminalViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Copy2.ConfigurationTerminalViewController&gt;"
+                  moduleName = "Copy2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Copy2%202/Copy2/ConfigurationTerminalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "464">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7794FDE-96C0-4FCF-8BF6-6849587E351B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Copy2/ConfigurationTerminalViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "transporter"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "E7794FDE-96C0-4FCF-8BF6-6849587E351B - 97c4514cdd2bf54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Copy2.ConfigurationTerminalViewController.transporter.getter : Swift.Optional&lt;McuManager.McuMgrTransport&gt;"
+                  moduleName = "Copy2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Copy2%202/Copy2/ConfigurationTerminalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "E7794FDE-96C0-4FCF-8BF6-6849587E351B - 1add02d3770cb58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Copy2.ConfigurationTerminalViewController.transporter.setter : Swift.Optional&lt;McuManager.McuMgrTransport&gt;"
+                  moduleName = "Copy2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Copy2%202/Copy2/ConfigurationTerminalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "E7794FDE-96C0-4FCF-8BF6-6849587E351B - a48ae0fca5802dfc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Copy2.ConfigurationTerminalViewController.transporter.modify : Swift.Optional&lt;McuManager.McuMgrTransport&gt;"
+                  moduleName = "Copy2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Copy2%202/Copy2/ConfigurationTerminalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "E7794FDE-96C0-4FCF-8BF6-6849587E351B - c45be33b4f0a21f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Copy2.ConfigurationTerminalViewController.transporter.modify : Swift.Optional&lt;McuManager.McuMgrTransport&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Copy2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Copy2%202/Copy2/ConfigurationTerminalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "E7794FDE-96C0-4FCF-8BF6-6849587E351B - 6496e956a321b2b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Copy2.ConfigurationTerminalViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Copy2.ConfigurationTerminalViewController"
+                  moduleName = "Copy2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Copy2%202/Copy2/ConfigurationTerminalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1776">
+               </Location>
+               <Location
+                  uuid = "E7794FDE-96C0-4FCF-8BF6-6849587E351B - 50f2c73558974679"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Copy2.ConfigurationTerminalViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Copy2.ConfigurationTerminalViewController&gt;"
+                  moduleName = "Copy2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Copy2%202/Copy2/ConfigurationTerminalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1756">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95784052-760E-4AB0-821C-F840E9FC5D52"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Copy2/ConfigurationTerminalViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "transporter"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8B4D274-44E1-44CD-A014-B1C746C06E24"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Copy2/ConfigurationTerminalViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "ConfigurationTerminalViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "C8B4D274-44E1-44CD-A014-B1C746C06E24 - a4a35907d864f6b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Copy2.ConfigurationTerminalViewController.(dfuManager in _6970053B69194E30915A4D8F0CAB6877).getter : Swift.Optional&lt;McuManager.FirmwareUpgradeManager&gt;"
+                  moduleName = "Copy2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Copy2%202/Copy2/ConfigurationTerminalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "C8B4D274-44E1-44CD-A014-B1C746C06E24 - a4a35907d864f6b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Copy2.ConfigurationTerminalViewController.(dfuManager in _6970053B69194E30915A4D8F0CAB6877).setter : Swift.Optional&lt;McuManager.FirmwareUpgradeManager&gt;"
+                  moduleName = "Copy2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Copy2%202/Copy2/ConfigurationTerminalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "C8B4D274-44E1-44CD-A014-B1C746C06E24 - a4a35907d864e0ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Copy2.ConfigurationTerminalViewController.(dfuManager in _6970053B69194E30915A4D8F0CAB6877).modify : Swift.Optional&lt;McuManager.FirmwareUpgradeManager&gt;"
+                  moduleName = "Copy2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Copy2%202/Copy2/ConfigurationTerminalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "C8B4D274-44E1-44CD-A014-B1C746C06E24 - ac66f64af326d07a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Copy2.ConfigurationTerminalViewController.(dfuManager in _6970053B69194E30915A4D8F0CAB6877).modify : Swift.Optional&lt;McuManager.FirmwareUpgradeManager&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Copy2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Copy2%202/Copy2/ConfigurationTerminalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  uuid = "C8B4D274-44E1-44CD-A014-B1C746C06E24 - 6496e956a321b37a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Copy2.ConfigurationTerminalViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Copy2.ConfigurationTerminalViewController"
+                  moduleName = "Copy2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Copy2%202/Copy2/ConfigurationTerminalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "1700">
+               </Location>
+               <Location
+                  uuid = "C8B4D274-44E1-44CD-A014-B1C746C06E24 - 50f2c735589747bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Copy2.ConfigurationTerminalViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Copy2.ConfigurationTerminalViewController&gt;"
+                  moduleName = "Copy2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mac/Desktop/Copy2%202/Copy2/ConfigurationTerminalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "1680">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7DAD6402-EA40-4DE1-9DB2-5F5B26951C1B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Copy2/ConfigurationTerminalViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "selectMode(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A82738E7-0E9D-47F8-B713-2207B73DC7A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Copy2/ConfigurationTerminalViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "selectMode(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFAE7A6B-DAB8-4DC0-ADCE-6CF7252FC462"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Copy2/ConfigurationTerminalViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "selectMode(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
